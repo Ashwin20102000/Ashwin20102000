@@ -19,9 +19,9 @@
 
 **Gmail -** [Ashwin Jeyaraman!](mailto:jkashwin2@gmail.com)
 
-**Education -** <strong>Sri Eshwar College </strong>(2022)
+**Education -** <strong>Sri Eshwar College of Engineering.</strong>(2022)
 
-**Learning Areas :**
+**Learning Areas 🎯:**
 <ul>
 <li>Programming Languages : C,C++,python,Java.</li>
 <li>Frontend & Styling Languages : HTML5 , CSS3, Bootstrap 4.5.0 .</li>
@@ -29,3 +29,4 @@
   <li>Data Organization Skill : Datastructure with (C , Python , Javascript) </li>
   <li>Developer Tools: VS code, Sublime Text, Postman, Photoshop. </li>
 </ul>
+<h4>Check some of my works below 👇</h4>
