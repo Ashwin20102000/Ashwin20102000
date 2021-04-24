@@ -16,17 +16,18 @@
 
 <br/>
 <br/>
-
+**Resume -** [Ashwin's Resume](https://drive.google.com/file/d/1RprdK5c5fM8lZX7_bO-p510YehPYAKOU/view)
 **Gmail -** [Ashwin Jeyaraman!](mailto:jkashwin2@gmail.com)
 
 **Education -** <strong>Sri Eshwar College of Engineering.</strong>(2022)
 
 **Learning Areas 🎯:**
 <ul>
-<li>Programming Languages : C,C++,python,Java.</li>
+<li>Problem Solving : C++. </li>
+<li>Programming Languages : C,python,Java.</li>
 <li>Frontend & Styling Languages : HTML5 , CSS3, Bootstrap 4.5.0 .</li>
-  <li>Backend & Database: Nodejs , SQL , SQLITE. </li>
-  <li>Data Organization Skill : Datastructure with (C , Python , Javascript) </li>
-  <li>Developer Tools: VS code, Sublime Text, Postman, Photoshop. </li>
+  <li>Backend & Database: MYSQL.</li>
+  <li>Data Organization Skill : Datastructure with (C,C++) </li>
+  <li>Developer Tools: VS code ,Figma, Automation Anywhere RPA, Photoshop,Spark Ar Studio, Github. </li>
 </ul>
 <h4>Check some of my works below 👇</h4>
