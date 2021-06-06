@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm [Ashwin J!](https://cranky-mccarthy-d74bfb.netlify.app/) !
 
 <strong> Polymath student pursuing undergraduate program in computer science Engineering.</strong>
-<strong> Web development and programming are my key areas. Obsessed with learning New Things and Technologies. </strong> 
+<strong>Obsessed with learning New Things and Technologies. </strong> 
 <strong>Strong listening and communication skills</strong>
 <br/>
 <br/>
