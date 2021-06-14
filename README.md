@@ -33,7 +33,6 @@
 <li>Problem Solving : C++. </li>
 <li>Programming Languages : C,Java.</li>
 <li>Frontend & Styling Languages : HTML5 , CSS3, Bootstrap 4.5.0 .</li>
-  <li>Backend & Database: MYSQL.</li>
   <li>Data Organization Skill : Datastructure with (C,C++) </li>
   <li>Developer Tools: VS code ,Figma, Automation Anywhere RPA, Photoshop,Spark Ar Studio, Github. </li>
 </ul>
