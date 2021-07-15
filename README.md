@@ -11,7 +11,6 @@
 <a href="https://www.instagram.com/mr.ashwin.j/">
   <img align="left" alt="Ashwin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
 <a href="https://leetcode.com/AshwinJeyaraman/">
   <img align="left" alt="Ashwin's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
