@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/ashwin-jeyaraman-820b47171/">
   <img align="left" alt="Ashwin's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/mr.ashwin.j/">
+<a href="https://www.instagram.com/ashwin._.j/">
   <img align="left" alt="Ashwin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://leetcode.com/AshwinJeyaraman/">
