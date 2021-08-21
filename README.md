@@ -1,5 +1,5 @@
 ### Hi there 👋 , I'm [Ashwin J!](https://cranky-mccarthy-d74bfb.netlify.app/) !
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashwin20102000&label=Profile%20views&color=0e75b6&style=flat" alt="Ashwin" /> </p>
 <strong> Polymath student pursuing undergraduate program in computer science Engineering.</strong>
 <strong>Obsessed with learning New Things and Technologies. </strong> 
 <strong>Strong listening and communication skills</strong>
