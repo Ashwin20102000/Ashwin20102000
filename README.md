@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm [Ashwin J!](https://cranky-mccarthy-d74bfb.netlify.app/) !
+### Hi there 👋, I'm [Ashwin J!](https://cranky-mccarthy-d74bfb.netlify.app/) !
 <strong> Polymath student pursuing undergraduate program in computer science Engineering.</strong>
 <strong>Obsessed with learning New Things and Technologies. </strong> 
 <strong>Strong listening and communication skills</strong>
