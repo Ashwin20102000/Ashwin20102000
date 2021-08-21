@@ -29,8 +29,9 @@
 **Learning Areas 🎯:**
 <ul>
 <li>Problem Solving : C++. </li>
-<li>Programming Languages : C,Java.</li>
-<li>Frontend & Styling Languages : HTML5 , CSS3, Bootstrap.</li>
+<li>Programming Languages : C,Java,Javascript,Typescript.</li>
+<li>Technologies : Angular,Fastify,React,Express,Docker,Kubernetes
+  <li>Frontend & Styling Languages : HTML5 , CSS3, Bootstrap.</li>
   <li>Developer Tools: VS code ,Figma, Automation Anywhere RPA, Photoshop,Spark Ar Studio, Github. </li>
 </ul>
 <h4>Check some of my works below 👇</h4>
