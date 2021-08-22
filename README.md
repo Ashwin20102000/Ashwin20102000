@@ -19,7 +19,7 @@
 </a>
 <br/>
 <br />
-![](https://komarev.com/ghpvc/?username=Ashwwin20102000)
+![](https://komarev.com/ghpvc/?username=Ashwwin20102000&color=ff69b4)
 
 
 **Gmail -** [Ashwin Jeyaraman!](mailto:jkashwin2@gmail.com)
