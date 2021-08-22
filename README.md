@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm [Ashwin J!](https://cranky-mccarthy-d74bfb.netlify.app/) !
+
 <strong> Polymath student pursuing undergraduate program in computer science Engineering.</strong>
 <strong>Obsessed with learning New Things and Technologies. </strong> 
 <strong>Strong listening and communication skills</strong>
@@ -16,10 +17,10 @@
 <a href="https://www.hackerrank.com/AshwinJeyaraman?hr_r=1">
   <img align="left" alt="Ashwin's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-
-
 <br/>
-<br/>
+<br />
+![](https://komarev.com/ghpvc/?username=Ashwwin20102000)
+
 
 **Gmail -** [Ashwin Jeyaraman!](mailto:jkashwin2@gmail.com)
 
@@ -29,7 +30,7 @@
 <ul>
 <li>Problem Solving : C++. </li>
 <li>Programming Languages : C,Java,Javascript,Typescript.</li>
-<li>Technologies : Angular,Fastify,React,Express,Docker,Kubernetes
+<li>Technologies : Angular,Fastify,Docker,Kubernetes
   <li>Frontend & Styling Languages : HTML5 , CSS3, Bootstrap.</li>
   <li>Developer Tools: VS code ,Figma, Automation Anywhere RPA, Photoshop,Spark Ar Studio, Github. </li>
 </ul>
