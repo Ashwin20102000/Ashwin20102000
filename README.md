@@ -30,7 +30,7 @@
 <ul>
 <li>Problem Solving : C++. </li>
 <li>Programming Languages : C,Java,Javascript,Typescript.</li>
-<li>Technologies : Angular,Fastify,Docker,Kubernetes
+<li>Technologies & Frameworks : Angular,Fastify,Docker,Kubernetes
   <li>Frontend & Styling Languages : HTML5 , CSS3, Bootstrap.</li>
   <li>Developer Tools: VS code ,Figma, Automation Anywhere RPA, Photoshop,Spark Ar Studio, Github. </li>
 </ul>
