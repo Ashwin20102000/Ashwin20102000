@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm [Ashwin J!](https://cranky-mccarthy-d74bfb.netlify.app/) !
 
 <strong> Polymath student pursuing undergraduate program in computer science Engineering.</strong>
-<strong>Obsessed with learning New Things and Technologies. </strong> 
-<strong>Strong listening and communication skills</strong>
+<strong>Obsessed with new technologies and discovering new skills. </strong> 
+<strong> Excellent listening and communication abilities.</strong>
 <br/>
 <br/>
 <a href="https://www.linkedin.com/in/ashwin-jeyaraman-820b47171/">
@@ -29,9 +29,13 @@
 **Learning Areas 🎯:**
 <ul>
 <li>Problem Solving : C++. </li>
-<li>Programming Languages : C,Java,Javascript,Typescript.</li>
-<li>Technologies & Frameworks : Angular,Fastify,Docker,Kubernetes
-  <li>Frontend & Styling Languages : HTML5 , CSS3, Bootstrap.</li>
-  <li>Developer Tools: VS code ,Figma, Automation Anywhere RPA, Photoshop,Spark Ar Studio, Github. </li>
+<li>Programming Languages : C, Java, Javascript, Typescript.</li>
+<li>Technologies & Frameworks : Angular, Fastify, React, Express, Docker, Kubernetes,Git
+  <li>Frontend & Styling Languages : HTML5, CSS3, Bootstrap, Material-Ui.</li>
+  <li>Developer Tools: VS code, Figma, Automation Anywhere RPA, Photoshop, Spark Ar Studio, Github. </li>
 </ul>
+
+"To succeed in your mission, you must have single-minded devotion to your goal. <strong>-Dr.A.P.J.Abdul Kalam" </sttrong>
+
+
 <h4>Check some of my works below 👇</h4>
