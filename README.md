@@ -35,7 +35,7 @@
   <li>Developer Tools: VS code, Figma, Automation Anywhere RPA, Photoshop, Spark Ar Studio, Github. </li>
 </ul>
 
-"To succeed in your mission, you must have single-minded devotion to your goal. <strong>-Dr.A.P.J.Abdul Kalam" </sttrong>
-
-
+"To succeed in your mission, you must have single-minded devotion to your goal. <strong>-Dr.A.P.J.Abdul Kalam" </strong>
+### Favorite Quote
+<strong>Work hard ! Hard work beats talent when talent doesn’t work hard </strong>
 <h4>Check some of my works below 👇</h4>
