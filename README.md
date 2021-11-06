@@ -32,7 +32,7 @@
 <li>Programming Languages : C, Java, Javascript, Typescript.</li>
 <li>Technologies & Frameworks : Angular, Fastify, React, Express, Docker, Kubernetes,Git
   <li>Frontend & Styling Languages : HTML5, CSS3, Bootstrap, Material-Ui.</li>
-  <li>Developer Tools: VS code, Figma, Automation Anywhere RPA, Photoshop, Spark Ar Studio, Github. </li>
+  <li>Developer Tools: VS code, Figma, Automation Anywhere RPA, Photoshop, Spark Ar Studio, Git , Github ,Gitlab. </li>
 </ul>
 
 "To succeed in your mission, you must have single-minded devotion to your goal. <strong>-Dr.A.P.J.Abdul Kalam" </strong>
