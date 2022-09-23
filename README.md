@@ -1,7 +1,11 @@
 ### Hi there, I'm Ashwin J👦,
-A Full Stack Web developer🎯  from India.
-
-📚 What do I believe? Work Every Waking Hour.
+A Full Stack Web developer🎯 from India.
+<br />
+Secured third position on the entire college for Mr & Ms Developer Competition.
+<br />
+What do I believe? Work Every Waking Hour.
+<br />
+Contact Me : +91 6382943292
 
 **Languages:**  
 
