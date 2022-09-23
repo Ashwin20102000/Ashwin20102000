@@ -25,7 +25,7 @@ Secured third position on the entire college for Mr & Ms Developer Competition.
 
 ![](https://komarev.com/ghpvc/?username=ashwin20102000)
 <br />
-What do I believe? Work Every Waking Hour.
+What do I believe? **"Work Every Waking Hour."**
 <br />
-Contact Me : +91 6382943292
+:telephone_receiver: : +91 6382943292
 <br />
