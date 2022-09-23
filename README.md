@@ -1,11 +1,11 @@
-### Hi there, I'm Ashwin J👦,
-A Full Stack Web developer🎯 from India.
-<br />
+### Hi there :wave:, I'm Ashwin J👦,
+- Full Stack Developer with developing, maintaining and implementing enhancements in the IT industry 
+building responsive web applications. 
+- An experienced team player with interpersonal skills
+- who has the ability to work independently under pressure.
+- **Academics Achievements**
 Secured third position on the entire college for Mr & Ms Developer Competition.
-<br />
-What do I believe? Work Every Waking Hour.
-<br />
-Contact Me : +91 6382943292
+
 
 **Languages:**  
 
@@ -24,3 +24,8 @@ Contact Me : +91 6382943292
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin20102000&theme=tokyonight&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=ashwin20102000)
+<br />
+What do I believe? Work Every Waking Hour.
+<br />
+Contact Me : +91 6382943292
+<br />
